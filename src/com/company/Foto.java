@@ -11,6 +11,5 @@ public class Foto implements Imprimible {
 
     @Override
     public String imprimir() {
-        return "soy foto";
     }
 }
