@@ -11,6 +11,6 @@ public class Foto implements Imprimible {
 
     @Override
     public String imprimir() {
-        return "soy foto HD 4K";
+        return "soy foto HD 4K y tambien puedo ser una betria";
     }
 }
